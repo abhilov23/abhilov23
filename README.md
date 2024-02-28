@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm  Abhilov Gupta 👋<br><br>- 📚 I'm currently learning Blockchain Development and Blockchain Security.<br>- 👀Looking for a Blockchain Development Job</p>
+<p align="left">I'm  Abhilov Gupta 👋<br><br>- 📚 I'm currently learning Blockchain Development and Blockchain Security.<br>- 👀 Looking for a Blockchain Development Job</p>
 
 ###
 
