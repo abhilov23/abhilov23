@@ -6,26 +6,7 @@
 
 ###
 
-<p align="left">I'm  Abhilov Gupta 👋<br><br>- 📚 I'm currently learning Blockchain Development and Blockchain Security.<br>- 👀 Looking for a Blockchain Development Internship</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
-<p align="left">My name is Abhilov and I'm a blockchain developer, from India.</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
+<p align="left">My name is Abhilov 👋<br><br>- 📚 I'm currently learning Blockchain Development and Blockchain Security.<br>- 👀 Open for opportunities </p>
 <p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning smart-contract development in Solana<br>🎯 Side-skills : part-time bug bounty hunter<br>🎲 Fun fact: I love Vim<br>👨‍🎓Check out my medium profile (@abhilov) for articles related to development and security</p>
 
 ###
@@ -71,16 +52,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=abhilov&theme=dark" alt="Layout with last medium posts"  />
-</div>
-
-###
 
 ###
 
