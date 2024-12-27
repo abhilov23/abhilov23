@@ -6,11 +6,11 @@
 
 ###
 <img width="100%" src="https://github.com/abhilov23/abhilov23/blob/main/github-header-image.png" alt="my banner">
--   :video_game: I am working on Blockchain Development
--   :monocle_face: Interested in everything related to Blockchain and malware development
--   :seedling: Currently learning Rust
--   :heart: Cybersecurity
--   :penguin: Linux ... it does infinite loops in 5 seconds..
+-   :video_game: I am working on Blockchain Development <br/>
+-   :monocle_face: Interested in everything related to Blockchain and malware development <br/>
+-   :seedling: Currently learning Rust <br/>
+-   :heart: Cybersecurity <br/>
+-   :penguin: Linux ... it does infinite loops in 5 seconds.. <br/>
 
 
 
