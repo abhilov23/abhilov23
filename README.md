@@ -5,7 +5,7 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
--    👨‍🎓 My name is Abhilov 👋
+<img width="100%" src="https://github.com/abhilov23/abhilov23/blob/main/github-header-image.png" alt="my banner">
 -   :video_game: I am working on **Blockchain Development**
 -   :monocle_face: Interested in everything related to **Blockchain and malware development**
 -   :seedling: Currently learning **Rust**
