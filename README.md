@@ -5,8 +5,14 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
+-    👨‍🎓 My name is Abhilov 👋
+-   :video_game: I am working on **Blockchain Development**
+-   :monocle_face: Interested in everything related to **Blockchain and malware development**
+-   :seedling: Currently learning **Rust**
+-   :heart: Cybersecurity
+-   :penguin: **Linux** ... it does infinite loops in 5 seconds..
 
-<p align="left">My name is Abhilov 👋<br><br>📚 I'm currently learning smart-contract development in Solana<br>🎯 Side-skills : part-time bug bounty hunter<br>🎲 Fun fact: I love Vim<br> 👀 Open for opportunities <br>👨‍🎓Check out my medium profile (@abhilov) for articles related to development and security</p>
+
 
 ###
 
