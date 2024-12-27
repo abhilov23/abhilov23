@@ -6,7 +6,7 @@
 
 ###
 <img width="100%" src="https://github.com/abhilov23/abhilov23/blob/main/github-header-image.png" alt="my banner">
--   :video_game: I am working on <b>Blockchain Development</b><br/>
+   :video_game: I am working on <b>Blockchain Development</b><br/>
    :monocle_face: Interested in everything related to <b>Blockchain and malware development</b> <br/>
    :seedling: Currently learning <b>Rust</b> <br/>
    :heart: <b>Cybersecurity</b> <br/>
