@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">My name is Abhilov 👋<br><br>- 📚 I'm currently learning smart-contract development in Solana<br>🎯 Side-skills : part-time bug bounty hunter<br>🎲 Fun fact: I love Vim<br> 👀 Open for opportunities <br>👨‍🎓Check out my medium profile (@abhilov) for articles related to development and security</p>
+<p align="left">My name is Abhilov 👋<br><br>📚 I'm currently learning smart-contract development in Solana<br>🎯 Side-skills : part-time bug bounty hunter<br>🎲 Fun fact: I love Vim<br> 👀 Open for opportunities <br>👨‍🎓Check out my medium profile (@abhilov) for articles related to development and security</p>
 
 ###
 
