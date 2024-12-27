@@ -7,7 +7,7 @@
 ###
 <img width="100%" src="https://github.com/abhilov23/abhilov23/blob/main/github-header-image.png" alt="my banner">
 -   :video_game: I am working on Blockchain Development <br/>
-   :monocle_face: Interested in everything related to Blockchain and malware development <br/>
+   :monocle_face: Interested in everything related to <b>Blockchain and malware development</b> <br/>
    :seedling: Currently learning Rust <br/>
    :heart: Cybersecurity <br/>
    📰 Check my articles on <a href="https://medium.com/@abhilov">medium.com</a> <br/>
