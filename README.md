@@ -10,7 +10,7 @@
 -   :monocle_face: Interested in everything related to Blockchain and malware development <br/>
 -   :seedling: Currently learning Rust <br/>
 -   :heart: Cybersecurity <br/>
--   📰: Check my articles on <a href="https://medium.com/@abhilov">medium.com</a>
+-   📰: Check my articles on <a href="https://medium.com/@abhilov">medium.com</a> <br/>
 -   :penguin: Linux ... it does infinite loops in 5 seconds.. <br/>
 
 
