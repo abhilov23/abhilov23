@@ -60,16 +60,6 @@
 
 ###
 
-<h3 align="left">Medium Articles:</h3>
-
-###
-
-
-![Pahlevikun's blog](https://github-read-medium.vercel.app/latest?username=abhilov23&limit=4&theme=nord)
-
-
-###
-
 <h3 align="left">🔌Connect with me</h3>
 
 ###
