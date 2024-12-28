@@ -18,7 +18,7 @@ jobs:
       - name: Fetch Medium posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://medium.com/feed/@yourMediumUsername"
+          feed_list: "https://medium.com/feed/@abhilov"
           max_post_count: 5  # You can change this number to the desired count
           
       - name: Commit changes
