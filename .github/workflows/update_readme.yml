@@ -20,6 +20,7 @@ jobs:
         with:
           feed_list: "https://medium.com/feed/@abhilov"
           max_post_count: 5  # You can change this number to the desired count
+          include_image: true  # Include images (thumbnails)
           
       - name: Commit changes
         env:
