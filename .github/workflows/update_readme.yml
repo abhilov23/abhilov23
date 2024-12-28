@@ -18,13 +18,16 @@ jobs:
       - name: Fetch Medium posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://medium.com/feed/@abhilov"
-          max_post_count: 5  # Change this number to the desired count
+          feed_list: "https://medium.com/feed/@yourMediumUsername"
+          max_post_count: 5  # You can change this number to the desired count
           
       - name: Commit changes
+        env:
+          ACTIONS_PAT: ${{ secrets.ACTIONS_PAT }}
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git remote set-url origin https://x-access-token:${{ secrets.ACTIONS_PAT }}@github.com/${{ github.repository }}
           git add .
           git commit -m 'Updated README with latest Medium posts' || exit 0
-          git push
+          git push origin HEAD:main
