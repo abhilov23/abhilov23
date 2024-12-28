@@ -89,6 +89,9 @@
   <a href="https://tryhackme.com/p/adam45" target="_blank">
     <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tryhackme logo"  />
   </a>
+   <a>
+      [![Medium](https://img.shields.io/badge/-Medium-05122A?style=flat&logo=medium)](https://medium.com/@abhilov)&nbsp;
+   </a>
 </div>
 
 ###
