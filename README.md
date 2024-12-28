@@ -63,6 +63,11 @@
 
 ## 📖 Latest Medium Posts
 <!-- BLOG-POST-LIST:START -->
+- [What’s in a URL? A Fun Guide to URLs!](https://medium.com/@abhilov/whats-in-a-url-a-fun-guide-to-urls-6090fede848b?source=rss-9f0c53c30e2b------2)
+- [Exposing Vulnerabilities: The Power of Google Dorking in Cybersecurity Part-3](https://medium.com/@abhilov/exposing-vulnerabilities-the-power-of-google-dorking-in-cybersecurity-part-3-16bf96cb8c2d?source=rss-9f0c53c30e2b------2)
+- [Exposing Vulnerabilities: The Power of Google Dorking in Cybersecurity Part-2](https://medium.com/@abhilov/exposing-vulnerabilities-the-power-of-google-dorking-in-cybersecurity-part-2-90dbf2e68ded?source=rss-9f0c53c30e2b------2)
+- [Exposing Vulnerabilities: The Power of Google Dorking in Cybersecurity Part-1](https://medium.com/@abhilov/exposing-vulnerabilities-the-power-of-google-dorking-in-cybersecurity-pt-1-5dbf37552123?source=rss-9f0c53c30e2b------2)
+- [The ABCs of Blockchain: Understanding the Basics](https://medium.com/@abhilov/the-abcs-of-blockchain-understanding-the-basics-0c044a5ba22a?source=rss-9f0c53c30e2b------2)
 <!-- BLOG-POST-LIST:END -->
 
 ###
