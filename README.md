@@ -1,31 +1,21 @@
-<h1 align="center">hey there 👋</h1>
+# Hey there 👋
 
-###
+## 👩‍💻 About Me
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
 <img width="100%" src="https://github.com/abhilov23/abhilov23/blob/main/github-header-image.png" alt="my banner">
-   :video_game: I am working on <b>Blockchain Development</b><br/>
-   :monocle_face: Interested in everything related to <b>Blockchain and malware development</b> <br/>
-   :seedling: Currently learning <b>Rust</b> <br/>
-   :heart: <b>Cybersecurity</b> <br/>
-   📰 Check my articles on <a href="https://medium.com/@abhilov">medium.com</a> <br/>
-   :penguin:  <b>Linux</b>... it does infinite loops in 5 seconds.. <br/>
 
+🎮 I am working on **Blockchain Development**  
+🧐 Interested in everything related to **Blockchain and malware development**  
+🌱 Currently learning **Rust**  
+❤️ **Cybersecurity**  
+📰 Check my articles on [medium.com](https://medium.com/@abhilov)  
+🐧 **Linux**... it does infinite loops in 5 seconds..  
 
+## I code with
 
-###
+### 💻 Tech Stack:
 
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  # 💻 Tech Stack:
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-</div>
-
 ###
 
 ## 📖 Latest Medium Posts
