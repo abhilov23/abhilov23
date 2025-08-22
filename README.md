@@ -5,7 +5,7 @@
 <img width="100%" src="https://github.com/abhilov23/abhilov23/blob/main/github-header-image.png" alt="my banner">
 
 🎮 I am working on **Blockchain Development**  
-🧐 Interested in everything related to **Blockchain and malware development**  
+🧐 Interested in everything related to **Blockchain and Machine Learning**  
 🌱 Currently learning **Rust**  
 ❤️ **Cybersecurity**  
 📰 Check my articles on [medium.com](https://medium.com/@abhilov)  
