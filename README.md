@@ -5,8 +5,7 @@
 <img width="100%" src="https://github.com/abhilov23/abhilov23/blob/main/github-header-image.png" alt="my banner">
 
 🎮 I am working on **Artificial intelligence and machine learning**  
-🧐 Interested in everything related to **Artificial Intelligence and Full-stack Development**  
-🌱 Currently learning **Rust**  
+🧐 Interested in everything related to **Agentic AI and Full-stack Development**  
 ❤️ **Cybersecurity**  
 📰 Check my articles on [medium.com](https://medium.com/@abhilov)  
 🐧 **Linux**... it does infinite loops in 5 seconds..  
